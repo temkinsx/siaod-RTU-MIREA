@@ -1,7 +1,6 @@
 #ifndef HASHTABLE_H
 #define HASHTABLE_H
 #include <vector>
-#include <string>
 #include <list>
 
 #include "Reader.h"
@@ -29,6 +28,5 @@ public:
 
     void fillDemo();
 };
-
 
 #endif //HASHTABLE_H
